@@ -1,3 +1,4 @@
 aula de github exemplo pull
 alteração arquilo exemplo
 Hello World!!
+exemplo de conflito no git
